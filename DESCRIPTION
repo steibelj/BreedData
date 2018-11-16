@@ -1,0 +1,12 @@
+Package: BreedData
+Type: Package
+Title: Breed Data Included
+Version: 0.1
+Author: Junjie Han 
+Maintainer: Junjie Han <junjieh1993@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
